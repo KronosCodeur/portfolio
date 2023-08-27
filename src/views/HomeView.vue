@@ -40,7 +40,7 @@
           </v-col>
         </v-row>
       </div>
-      <v-col id="about" class="py-16 d-flex justify-center align-center" style="min-height: 100vh; background: #2a2a2a" cols="12">
+      <v-col id="about" class="py-16 d-flex justify-center align-center " style="min-height: 100vh; border-bottom: 2px solid #01AF49 ;background: #0A0E11" cols="12">
         <div>
           <v-row>
             <v-col cols="12" sm="5">
@@ -105,9 +105,9 @@
           </v-row>
         </div>
       </v-col>
-      <v-col id="services" class="py-16 px-12 d-flex align-center justify-space-between"  cols="12" style=" min-height: 100vh; background: #0A0E11">
+      <v-col id="services" class="py-16 px-12 d-flex align-center justify-space-between"  cols="12" style=" min-height: 100vh; background: #0A0E11; border-bottom: 2px solid #01AF49 ">
       </v-col>
-      <v-col id="portfolio" class="py-16 px-12 d-flex align-center justify-space-between"  cols="12" style="min-height: 100vh; background: #2a2a2a">
+      <v-col id="portfolio" class="py-16 px-12 d-flex align-center justify-space-between"  cols="12" style="min-height: 100vh; background: #0A0E11 ; border-bottom: 2px solid #01AF49 ">
         <v-col cols="6">
           <div>
             <h2 style="color: #01AF49; margin-bottom: 5px">Compétences</h2>

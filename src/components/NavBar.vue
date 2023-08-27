@@ -29,7 +29,7 @@ export default {
   computed: {
     color() {
       // replace `true` and `false` with your condition
-      return this.selectedItem==='home' ? '#0A0E11' : '#333333';
+      return this.selectedItem==='home' ? '#0A0E11' : '#161e23';
     },
   },
   mounted() {
